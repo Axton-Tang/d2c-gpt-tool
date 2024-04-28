@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/release
+db.json
+log4.log
+.vscode
